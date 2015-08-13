@@ -31,6 +31,6 @@
 * To get involved you can add your name in the comments section of any issue, specifying the way you think you can help.  You can also ask questions this way.
 * We also have a [special tag: 'volunteer'](https://github.com/mozilla/participation-org/labels/Volunteer%20Task) tag which identifies tasks that either provide contribution opportunities, or are themselves a volunteer task.  Volunteer tasks will often provide prerequisites and participatoin steps to getting involved.
 
-If you have specific skills you would like to contribute (QA/Coding) thien please reach out to anyone on the team with more information.
+If you have specific skills you would like to contribute (for example: QA/Coding/Writing) thien please reach out to anyone on the team with more information.
 
 Thanks for visiting!
