@@ -2,9 +2,9 @@
 # Contribute.md
 
 ## Team members
-* George Roter
+* [George Roter](https://mozillians.org/en-US/u/geroter/)
 * [William Quiviger](https://mozillians.org/u/djst/)
-[Brian King](https://mozillians.org/u/kinger/)
+* [Brian King](https://mozillians.org/u/kinger/)
 * [Guillermo Movia](https://mozillians.org/u/deimidis/)
 * [Pierros Papadeas](https://mozillians.org/u/pierros/)
 * [Anastasios Katsoulas](https://mozillians.org/en-US/u/akatsoulas/)
@@ -19,8 +19,8 @@
 
 ## Learn & listen
 
-* [Discourse]: https://discourse.mozilla-community.org/c/participation
-* [Participation Call](https://wiki.mozilla.org/Participation/Meetings):  
+* [Discourse](https://discourse.mozilla-community.org/c/participation)
+* [Participation Call](https://wiki.mozilla.org/Participation/Meetings) 
 * [Blog](https://blog.mozilla.org/community/category/participation/)         
 * [Participation Planet](http://planet.mozilla.org/participation/)
 
