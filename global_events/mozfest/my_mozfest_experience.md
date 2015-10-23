@@ -9,7 +9,7 @@
 
 * Sessions you are running or hope to help with in some way.
 * What you hope to bring or learn as part of that experience?
-I
+
 ## Primary Pathway
 
 * The pathway that most resonates with your 2016 goals.
