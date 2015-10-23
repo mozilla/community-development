@@ -3,7 +3,7 @@
 
 ![moExperience](https://wiki.mozilla.org/images/4/42/Mozfest2012_5.png)
 
-*What I commit to doing during Mozfest to achieve my goal*
+*What I commit to for Mozfest move closer to my 2016 for building leadership and learning programs in Mozilla communities.*
 
 ## Session Leadership
 
