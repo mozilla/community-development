@@ -18,7 +18,7 @@
 
 ## Other Sessions I Will Attend
 * What other sessions stand out as being important for you to attend?
-* * What you hope to bring/learn as a result?
+* What you hope to bring/learn as a result?
 
 ## Experiences
 * Five experiences you promise to yourself for Mozfest.  Some suggestions should have been covered in coaching.
