@@ -3,7 +3,7 @@
 
 ## Team members
 * [George Roter](https://mozillians.org/en-US/u/geroter/)
-* [William Quiviger](https://mozillians.org/u/djst/)
+* [William Quiviger](https://mozillians.org/en-US/u/williamq/)
 * [Brian King](https://mozillians.org/u/kinger/)
 * [Guillermo Movia](https://mozillians.org/u/deimidis/)
 * [Pierros Papadeas](https://mozillians.org/u/pierros/)
