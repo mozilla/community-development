@@ -2,15 +2,15 @@
 # Contribute.md
 
 ## Team members
-* [George Roter](https://mozillians.org/en-US/u/geroter/)
-* [William Quiviger](https://mozillians.org/u/djst/)
+* [George Roter](https://mozillians.org/u/geroter/)
+* [William Quiviger](https://mozillians.org/u/williamq/)
 * [Brian King](https://mozillians.org/u/kinger/)
 * [Guillermo Movia](https://mozillians.org/u/deimidis/)
 * [Pierros Papadeas](https://mozillians.org/u/pierros/)
-* [Anastasios Katsoulas](https://mozillians.org/en-US/u/akatsoulas/)
-* [John Giannelos](https://mozillians.org/en-US/u/jgiannelos/)
-* [Lucy Harris](https://mozillians.org/en-US/u/lucyeoh/)
-* [Nikos Roussos](https://mozillians.org/en-US/u/comzeradd/)
+* [Anastasios Katsoulas](https://mozillians.org/u/akatsoulas/)
+* [John Giannelos](https://mozillians.org/u/jgiannelos/)
+* [Lucy Harris](https://mozillians.org/u/lucyeoh/)
+* [Nikos Roussos](https://mozillians.org/u/comzeradd/)
 * [Rosana Ardila](https://mozillians.org/u/rosana/)
 * [Rubén Martín](https://mozillians.org/u/nukeador/)
 * [Konstantina Papadea](https://mozillians.org/u/couci/)
