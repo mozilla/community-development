@@ -1,21 +1,4 @@
-/* CONTRIBUTE */
-# Contribute.md
-
-## Team members
-* [George Roter](https://mozillians.org/u/geroter/)
-* [William Quiviger](https://mozillians.org/u/williamq/)
-* [Brian King](https://mozillians.org/u/kinger/)
-* [Guillermo Movia](https://mozillians.org/u/deimidis/)
-* [Pierros Papadeas](https://mozillians.org/u/pierros/)
-* [Anastasios Katsoulas](https://mozillians.org/u/akatsoulas/)
-* [John Giannelos](https://mozillians.org/u/jgiannelos/)
-* [Lucy Harris](https://mozillians.org/u/lucyeoh/)
-* [Nikos Roussos](https://mozillians.org/u/comzeradd/)
-* [Rosana Ardila](https://mozillians.org/u/rosana/)
-* [Rubén Martín](https://mozillians.org/u/nukeador/)
-* [Konstantina Papadea](https://mozillians.org/u/couci/)
-* [Emma Irwin](https://mozillians.org/u/emmairwin/)
-* [Francisco Picolini](https://mozillians.org/u/FrancJP/)
+# Contribute
 
 ## Learn & listen
 
@@ -34,3 +17,19 @@
 If you have specific skills you would like to contribute (for example: QA/Coding/Writing) then please reach out to anyone on the team with more information.
 
 Thanks for visiting!
+
+## Team members
+* [George Roter](https://mozillians.org/u/geroter/)
+* [William Quiviger](https://mozillians.org/u/williamq/)
+* [Brian King](https://mozillians.org/u/kinger/)
+* [Guillermo Movia](https://mozillians.org/u/deimidis/)
+* [Pierros Papadeas](https://mozillians.org/u/pierros/)
+* [Anastasios Katsoulas](https://mozillians.org/u/akatsoulas/)
+* [John Giannelos](https://mozillians.org/u/jgiannelos/)
+* [Lucy Harris](https://mozillians.org/u/lucyeoh/)
+* [Nikos Roussos](https://mozillians.org/u/comzeradd/)
+* [Rosana Ardila](https://mozillians.org/u/rosana/)
+* [Rubén Martín](https://mozillians.org/u/nukeador/)
+* [Konstantina Papadea](https://mozillians.org/u/couci/)
+* [Emma Irwin](https://mozillians.org/u/emmairwin/)
+* [Francisco Picolini](https://mozillians.org/u/FrancJP/)
