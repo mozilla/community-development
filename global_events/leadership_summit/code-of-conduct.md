@@ -7,6 +7,7 @@
 A primary goal of Mozilla’s Participation Leadership Summit is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This Code of Conduct outlines our expectations for all those who participate in this and other leadership events, as well as the consequences for unacceptable behavior.
+
 We invite all those who participate in the Leadership Summit to help us create safe and positive experiences for everyone.
 
 ## Encouraging and Recognizing Participation
