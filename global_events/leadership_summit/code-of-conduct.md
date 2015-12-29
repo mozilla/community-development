@@ -1,5 +1,6 @@
-        
-#Code of Conduct
+![lanyards](https://c2.staticflickr.com/4/3710/9096444668_4612746b84_z.jpg)
+      
+#Leadership Summit - Code of Conduct
 
 ##Purpose
 
@@ -79,7 +80,8 @@ This Code of Conduct and its related procedures also applies to unacceptable beh
 
 ##License and attribution
 
-This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license.
-It has been adapted with few modifications from Mozilla’s View Source Conference, which is based on Stumptown Syndicate’s Citizen Code of Conduct, portions of which are derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy. Additional text from LGBTQ in Technology Code of Conduct.
+This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
+It has been adapted with few modifications from [Mozilla’s View Source Conference](https://viewsourceconf.org/code-of-conduct/), which is based on [Stumptown Syndicate’s Citizen Code of Conduct](http://citizencodeofconduct.org/), portions of which are derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy. Additional text from [LGBTQ in Technology Code of Conduct](http://lgbtq.technology/coc.html).
             
 
+Image by [Flore Allemandou](https://www.flickr.com/photos/flore_frmoz/) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
