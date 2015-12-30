@@ -28,7 +28,7 @@ The following behaviors are expected and requested of all summit participants, i
 * Be mindful that for many, English is a 2nd, 3rd or even 4th language, and to show patience and respect while listening to and conveying ideas.
 * Remember that we come from many cultures and backgrounds. What is friendly in one culture may not be in another. 
 * Remember that due to personal, religious, or other reasons, not everyone in the group may drink alcohol. Please respect people’s choices and preferences in this regard without question or criticism.
-* Be mindful of local laws, and protect each other from making public - personal information that may put people at risk of appearing to violate those laws.
+* Be mindful of [local laws](http://www.goabroad.com/articles/study-abroad/singapore-laws-to-know-before-you-go), and protect each other from revealing personal information that may put people at risk of appearing to violate those laws.
 * Remember that summit venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
 
