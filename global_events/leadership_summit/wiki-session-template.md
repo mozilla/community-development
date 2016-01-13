@@ -1,6 +1,4 @@
-===Session Title===
-
-[[Participation/Global Gatherings 2015/Singapur/Content/Session Title]]
+===Session Title Goes Here===
 
 Time: 
 
