@@ -3,7 +3,6 @@
 ## Learn & listen
 
 * [Discourse](https://discourse.mozilla-community.org/c/participation)
-* [Participation Call](https://wiki.mozilla.org/Participation/Meetings) 
 * [Blog](https://blog.mozilla.org/community/category/participation/)         
 * [Participation Planet](http://planet.mozilla.org/participation/)
 
