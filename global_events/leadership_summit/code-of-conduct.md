@@ -25,7 +25,7 @@ Disagreement is no excuse for poor manners. We will exercise consideration and r
 
 Refrain from demeaning, discriminatory, or harassing behavior and speech. This includes gestures and online discussions / back-channels (like Telegram).
 
-#### Take responsibility for your Words & actions
+#### Take responsibility for your words & actions
 
 We can all make mistakes; when we do, we take responsibility for them.  If someone has been harmed or offended, we listen carefully and respectfully, and work to right the wrong.
 
