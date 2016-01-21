@@ -119,7 +119,7 @@ You can also email Diversity Lead,  [Larissa Shapiro directly](lshapiro@mozilla.
 ##License and attribution
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
-It has been adapted with few modifications from [Mozilla’s View Source Conference](https://viewsourceconf.org/code-of-conduct/), which is based on [Stumptown Syndicate’s Citizen Code of Conduct](http://citizencodeofconduct.org/), portions of which are derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy. Additional text from [LGBTQ in Technology Code of Conduct](http://lgbtq.technology/coc.html).
+It has been adapted with few modifications from [Ubuntu Code of Conduct](http://www.ubuntu.com/about/about-ubuntu/conduct), [Mozilla’s View Source Conference](https://viewsourceconf.org/code-of-conduct/), which is based on [Stumptown Syndicate’s Citizen Code of Conduct](http://citizencodeofconduct.org/), portions of which are derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy. Additional text from [LGBTQ in Technology Code of Conduct](http://lgbtq.technology/coc.html).
 
 
 Image by [Flore Allemandou](https://www.flickr.com/photos/flore_frmoz/) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
