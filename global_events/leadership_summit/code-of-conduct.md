@@ -31,15 +31,15 @@ We can all make mistakes; when we do, we take responsibility for them.  If someo
 
 #### Look out for each other
 
-Be mindful of your surroundings and of your fellow participants. Alert an event organizer / Participation Team member if you notice a dangerous situation, someone in distress, or violations of this Guideline. If something makes you feel concerned, or worried   - even if you’re not sure it’s a violation, it’s better to reach out, than to ignore.
+Be mindful of your surroundings and of your fellow participants. Alert an event organizer / Participation Team member if you notice a dangerous situation, someone in distress, or violations of this Guideline. If something makes you feel concerned, or worried - even if you’re not sure it’s a violation, it’s better to reach out, than to ignore.
 
 Be mindful of [local laws](http://www.goabroad.com/articles/study-abroad/singapore-laws-to-know-before-you-go), and protect each other from making public - personal information that may put people at risk of appearing to violate those laws.
 
 Remember that summit venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-#### Expect and accommodate cultural  and personal differences
+#### Expect and accommodate cultural and personal differences
 
-Be mindful that for many, English is a 2nd, 3rd or even 4th language, and to show patience and respect while listening to and conveying ideas.Remember that we come from many cultures and backgrounds. What is friendly in one culture may not be in another. If you’re not sure what is appropriate, just ask.
+Be mindful that for many, English is a 2nd, 3rd or even 4th language, and to show patience and respect while listening to and conveying ideas. Remember that we come from many cultures and backgrounds. What is friendly in one culture may not be in another. If you’re not sure what is appropriate, just ask.
 
 Remember that due to personal, religious, or other reasons, not everyone in the group may drink alcohol or even eat certain types of food. Please respect people’s choices and preferences in this regard without question or criticism.
 
@@ -53,24 +53,24 @@ The following behaviors are considered harassment and are unacceptable:
 
 #### Violence and threat of violence
 
-This includes incitement of violence towards any individual, including encourage a person to commit self-harm.  
+This includes incitement of violence towards any individual, including encouraging a person to commit self-harm.  
 
-This includes Posting or threatening to post other people’s personally identifying information (“doxing”).
+This includes posting or threatening to post other people’s personally identifying information (“doxing”).
 
 #### Derogatory language
 
-Hurtful or harmful language related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, religion, age, or socio-economic status.   This includes deliberately referring to someone by a gender that they clearly do not identify with.
+Hurtful or harmful language related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, religion, age, or socio-economic status. This includes deliberately referring to someone by a gender that they clearly do not identify with.
 
 If you’re unsure if a word is derogatory, don’t use it.
 
 #### Sexual behavior
 
 Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-Physical contact or simulated physical contact (e.g. textual messages like “hug” or “backrub”) without affirmative consent.   This includes sharing or distribution of sexualized images.
+Physical contact or simulated physical contact (e.g. textual messages like “hug” or “backrub”) without affirmative consent. This includes sharing or distribution of sexualized images.
 
-Of course you can hug your best friend that you’ve known for ever - the key word is consent.  
+Of course you can hug your best friend that you’ve known forever - the key word is consent.  
 
-#### Distruptive behavior
+#### Disruptive behavior
 
 Sustained disruption of summit events, including talks and presentations will not be tolerated.  This includes ‘talking over’ speakers, or influencing crowd actions that are contrary to the direction of the session.
 
@@ -96,8 +96,7 @@ Additionally, event organizers are available to help summit community members en
 
 ### Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the summit conduct team at [leadership-summit-conduct@mozilla.com]([leadership-summit-conduct@mozilla.com](leadership-summit-conduct@mozilla.com)
-with a concise description of your grievance.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the summit conduct team at [leadership-summit-conduct@mozilla.com]([leadership-summit-conduct@mozilla.com](leadership-summit-conduct@mozilla.com) with a concise description of your grievance.
 
 ### Scope
 
@@ -116,7 +115,7 @@ This Guidline and its related procedures also applies to unacceptable behavior o
 
 You can also email Diversity Lead,  [Larissa Shapiro directly](lshapiro@mozilla.com ).
 
-##License and attribution
+## License and attribution
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 It has been adapted with few modifications from [Ubuntu Code of Conduct](http://www.ubuntu.com/about/about-ubuntu/conduct), [Mozilla’s View Source Conference](https://viewsourceconf.org/code-of-conduct/), which is based on [Stumptown Syndicate’s Citizen Code of Conduct](http://citizencodeofconduct.org/), portions of which are derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy. Additional text from [LGBTQ in Technology Code of Conduct](http://lgbtq.technology/coc.html).
