@@ -7,7 +7,6 @@
 The heart of Mozilla is people.  This guideline is meant to support a happy, productive, and safe event experience that can welcome new ideas and inspiration  for all attendees of Mozilla's Leadership Summit, regardless of gender, sexual orientation, age, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 We gain strength from diversity, and actively seek participation from those who enhance it. These guidelines exist to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardise the participation of any person in the project, and we outline in this document expected, as well as prohibited behavior.
-Expected Behavior
 
 ### Expected
 
