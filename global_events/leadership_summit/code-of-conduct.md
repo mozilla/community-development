@@ -29,7 +29,7 @@ Refrain from demeaning, discriminatory, or harassing behavior and speech. This i
 
 We can all make mistakes; when we do, we take responsibility for them.  If someone has been harmed or offended, we listen carefully and respectfully, and work to right the wrong.
 
-#### Lookout for each other
+#### Look out for each other
 
 Be mindful of your surroundings and of your fellow participants. Alert an event organizer / Participation Team member if you notice a dangerous situation, someone in distress, or violations of this Guideline. If something makes you feel concerned, or worried   - even if you’re not sure it’s a violation, it’s better to reach out, than to ignore.
 
@@ -80,7 +80,7 @@ Influencing the over-consumption of alcohol, or making derogatory comments about
 
 Advocating for, or encouraging, any of the above behavior is the same as committing that behavior yourself, and thus the same consequences apply.
 
-Consequences of Unacceptable Behavior
+## Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any summit community participants, including those with decision-making authority, will not be tolerated.
 
