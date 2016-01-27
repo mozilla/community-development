@@ -2,7 +2,7 @@
 
 ![Participate](https://wiki.mozilla.org/images/d/d0/ParticipationSmall.png)
 
-This repository is used for tracking [issues](https://github.com/mozilla/participation-org/issues).
+This repository is used for tracking [issues](https://github.com/mozilla/participation-org/issues) directly related to the work of the Participation Team. For more information on how to use this Repo please read [this](https://discourse.mozilla-community.org/t/coordinating-participation-on-github/6638).
 
 If you'd like to propose new work or get in touch with the team, head over to discourse here: https://discourse.mozilla-community.org/c/participation
 
