@@ -1,0 +1,264 @@
+body {
+  font-family: "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+body * {
+  padding: 0;
+  margin: 0;
+  font-size: inherit;
+  font-weight: 400;
+}
+h1 {
+  font-size: 40px;
+  margin: 0 0 35px 0;
+  color: #273D44;
+  position: relative;
+  line-height: 120%;
+  left: -3px;
+}
+h2 {
+  font-size: 32px;
+  font-style: italic;
+  color: #3a3e4a;
+  margin: 30px 0 20px 0;
+}
+h3 {
+  color: #3a3e4a;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 20px 0 8px 0;
+}
+h4 {
+  color: #273D44;
+  margin: 0 0 5px 0;
+  font-size: 18px;
+}
+hr {
+  height: 40px;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  border: none;
+}
+hr:after {
+  content: "";
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  top: 19px;
+  height: 2px;
+  background: #e5e6ea;
+}
+p,
+li {
+  color: rgba(0, 0, 0, 0.45);
+  line-height: 160%;
+}
+code {
+  background: #e5e6ea;
+  color: #3a3e4a;
+  padding: 3px;
+}
+pre {
+  background: #273D44;
+  padding: 18px;
+  display: block;
+  margin: 25px 0 30px 0;
+  font-size: 14px;
+}
+pre code {
+  padding: 0;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 140%;
+}
+strong {
+  font-weight: 500;
+  color: #273D44;
+}
+p {
+  margin: 0 0 30px 0;
+}
+a {
+  color: #089970;
+  transition: background 0.05s ease-out;
+}
+a:hover {
+  background: #E4F7F0;
+}
+article {
+  max-width: 750px;
+  min-width: 500px;
+  position: relative;
+  padding: 20px 0 40px 295px;
+  margin-right: 55px;
+  z-index: 1;
+}
+article img {
+  max-width: 100%;
+}
+article .logo {
+  left: 0px;
+  width: 200px;
+  line-height: 18px;
+  position: relative;
+  margin: 0 0 5px 0;
+}
+article .logo a {
+  display: block;
+}
+article .logo a img {
+  max-width: 100%;
+  display: block;
+}
+article .logo a:hover {
+  background: none;
+  opacity: .8;
+}
+article > ul,
+article ol {
+  padding-left: 22px;
+  margin-bottom: 40px;
+}
+article > ul li,
+article ol li {
+  margin-bottom: 8px;
+}
+article ul li {
+  list-style-type: none;
+  position: relative;
+}
+article ul li:before {
+  content: ".";
+  position: absolute;
+  left: -15px;
+  font-weight: 700;
+  color: inherit;
+  font-size: 25px;
+  top: -6px;
+}
+blockquote {
+  margin: 30px 0 40px 0;
+  background: #e5e6ea;
+  color: #3a3e4a;
+  padding: 20px;
+  border-left: solid 2px #acb0bd;
+}
+blockquote * {
+  color: inherit;
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+.summary {
+  flex: 2;
+  font-size: 18px;
+  line-height: 145%;
+  padding: 0 0 0 28px;
+  font-style: italic;
+  position: relative;
+}
+.summary:after {
+  content: "";
+  width: 3px;
+  height: calc(100% - 10px);
+  left: 0;
+  top: 5px;
+  position: absolute;
+  background: #acb0bd;
+}
+aside {
+  z-index: 2;
+  width: 230px;
+  position: fixed;
+  top: 0;
+}
+aside:before {
+  background: #515666;
+  content: "";
+  position: fixed;
+  top: 0;
+  height: 100vh;
+  width: 230px;
+  z-index: 1;
+}
+aside .image {
+  position: relative;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  margin: 22px 0 30px 27px;
+  background-image: url(../images/mozilla-participation-logo-large.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: white;
+  z-index: 2;
+}
+aside .image img {
+  width: calc(100% - 20px);
+}
+/* Left-side Navigation */
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  z-index: 2;
+  margin: 25px 0;
+}
+nav a {
+  display: block;
+  position: relative;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.7);
+  padding: 18px 34px;
+  transition: background 0.05s ease-out;
+}
+nav a.selected,
+nav a.selected:hover {
+  background: #3a3e4a;
+  color: white;
+  font-weight: 500;
+}
+nav a:hover {
+  background: #464a58;
+  color: #ffffff;
+}
+nav a:after {
+  content: "";
+  background-color: #3a3e4a;
+  background-image: url(../images/nav-selected-indicator-mask.svg);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 15px;
+  position: absolute;
+  top: 0;
+  right: 0px;
+  opacity: 1;
+  width: 0px;
+  transition: all 0.075s ease-out;
+}
+nav a.selected {
+  color: #ffffff;
+}
+nav a.selected:after {
+  width: 15px;
+  right: -15px;
+}
+@media print {
+  aside {
+    display: none;
+  }
+  article {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+  }
+}
