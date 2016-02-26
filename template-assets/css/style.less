@@ -1,0 +1,342 @@
+// Main colors
+@primary: #515666;            // Section headings and side-bar background
+
+// Colors, based on the primary
+@primary-darkest: darken(@primary, 10%);     // Selected state in nav
+@primary-dark:  darken(@primary, 5%);        // Hover state in nav
+@primary-light: lighten(@primary, 35%);      // Borders & horizontal rules
+@primary-lightest: lighten(@primary, 55%);   // Background for Example
+
+@link-color: #089970;         // Link text
+@link-background: #E4F7F0;    // Link background when hovered
+@text-dark: #273D44;            // Dark headings and bold items
+
+// Layout
+@aside-width: 230px;          // Width of the navigation side bar
+@base-font-size: 16px;        // Base font size for body copy
+
+// Neutral Text
+@text-medium: rgba(0,0,0,.45);  // Body copy (paragraphs, lists, etc.)
+
+body {
+  font-family: "Fira Sans","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+  position: relative;
+
+  * {
+    padding: 0;
+    margin: 0;
+    font-size: inherit;
+    font-weight: 400;
+  }
+}
+
+// Basic content & tags
+
+h1 {
+  font-size: 40px;
+  margin: 0 0 35px 0;
+  color: @text-dark;
+  position: relative;
+  line-height: 120%;
+  left: -3px;
+}
+
+h2 {
+  font-size: 32px;
+  font-style: italic;
+  color: @primary-darkest;
+  margin: 30px 0 20px 0;
+}
+
+h3 {
+  color: @primary-darkest;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 20px 0 8px 0;
+}
+
+h4 {
+  color: @text-dark;
+  margin: 0 0 5px 0;
+  font-size: 18px;
+}
+
+
+hr {
+  height: 40px;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  border: none;
+
+  &:after {
+    content: "";
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    top: 19px;
+    height: 2px;
+    background: @primary-lightest;
+  }
+}
+
+p, li {
+  color: @text-medium;
+  line-height: 160%;
+}
+
+
+code {
+  background: @primary-lightest;
+  color: @primary-darkest;
+  padding: 3px;
+}
+
+
+pre {
+  background: @text-dark;
+  padding: 18px;
+  display: block;
+  margin: 25px 0 30px 0;
+  font-size: 14px;
+
+  code {
+    padding: 0;
+    background: transparent;
+    color: rgba(255,255,255,.6);
+    line-height: 140%;
+  }
+}
+
+strong {
+  font-weight: 500;
+  color: @text-dark;
+}
+
+p {
+  margin: 0 0 30px 0;
+}
+
+a {
+  color: @link-color;
+  transition: background .05s ease-out;
+
+  &:hover {
+    background: @link-background;
+  }
+}
+
+// The main content wrapper
+
+article {
+  max-width: 750px;
+  min-width: 500px;
+  position: relative;
+  padding: 20px 0 40px @aside-width + 65;
+  margin-right: 55px;
+  z-index: 1;
+
+  img {
+    max-width: 100%;
+  }
+
+  .logo {
+    left: 0px;
+    width: 200px;
+    line-height: 18px;
+    position: relative;
+    margin: 0 0 5px 0;
+
+    a {
+      display: block;
+
+      img {
+        max-width: 100%;
+        display: block;
+      }
+    }
+
+    a:hover {
+      background: none;
+      opacity: .8;
+    }
+
+  }
+
+  > ul, ol {
+    padding-left: 22px;
+    margin-bottom: 40px;
+
+    li {
+      margin-bottom: 8px;
+    }
+  }
+
+  ul {
+    li {
+      list-style-type: none;
+      position: relative;
+
+      &:before {
+        content: ".";
+        position: absolute;
+        left: -15px;
+        font-weight: 700;
+        color: inherit;
+        font-size: 25px;
+        top: -6px;
+      }
+    }
+  }
+}
+
+// Example callout box
+
+blockquote {
+  margin: 30px 0 40px 0;
+  background: @primary-lightest;
+  color: @primary-darkest;
+  padding: 20px;
+  border-left: solid 2px @primary-light;
+
+  * {
+   color: inherit;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.summary {
+  flex: 2;
+  font-size: 18px;
+  line-height: 145%;
+  padding: 0 0 0 28px;
+  font-style: italic;
+  position: relative;
+
+  &:after {
+    content: "";
+    width: 3px;
+    height: ~"calc(100% - 10px)";
+    left: 0;
+    top: 5px;
+    position: absolute;
+    background: @primary-light;
+  }
+}
+
+// Side-bar with navigation
+aside {
+  z-index: 2;
+  width: @aside-width;
+  position: fixed;
+  top: 0;
+
+  &:before {
+    background: @primary;
+    content: "";
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    width: @aside-width;
+    z-index: 1;
+  }
+
+  .image {
+    position: relative;
+    height: 170px;
+    width: 170px;
+    border-radius: 50%;
+    margin: 22px 0 30px 27px;
+    background-image: ~"url(../template-assets/images/mozilla-participation-logo-large.png)";
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+    z-index: 2;
+
+    img {
+      width: ~"calc(100% - 20px)";
+    }
+  }
+}
+
+/* Left-side Navigation */
+
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  z-index: 2;
+  margin: 25px 0;
+
+  a {
+    display: block;
+    position: relative;
+    text-decoration: none;
+    color: rgba(255,255,255,.7);
+    padding: 18px 34px;
+    transition: background .05s ease-out;
+
+    &.selected, &.selected:hover {
+      background: @primary-darkest;
+      color: white;
+      font-weight: 500;
+    }
+
+    &:hover {
+      background: @primary-dark;
+      color: rgba(255,255,255,1);
+    }
+
+    &:after {
+      content: "";
+      background-color: @primary-darkest;
+      background-image: ~"url(../template-assets/images/nav-selected-indicator-mask.svg)";
+      background-position: right;
+      background-repeat: no-repeat;
+
+      background-size: cover;
+      height: 100%;
+      width: 15px;
+      position: absolute;
+      top: 0;
+      right: 0px;
+      opacity: 1;
+      width: 0px;
+      transition: all .075s ease-out;
+    }
+
+    &.selected {
+      color: rgba(255,255,255,1);
+
+      &:after {
+        width: 15px;
+        right: -15px;
+      }
+
+    }
+  }
+}
+
+
+// Print styles
+
+@media print {
+  aside {
+    display: none;
+  }
+
+  article {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+  }
+}
