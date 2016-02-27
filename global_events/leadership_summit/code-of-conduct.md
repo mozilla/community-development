@@ -101,7 +101,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 All summit participants (contributors, paid or otherwise; contractors; and other guests) are expected to abide by this Code of Conduct in all summit community venues—online and in-person—as well as in all one-on-one communications pertaining to summit community business.
 
-This Guidline and its related procedures also applies to unacceptable behavior occurring outside the scope of summit community activities when such behavior has the potential to adversely affect the safety and well-being of summit community members.
+This Guideline and its related procedures also applies to unacceptable behavior occurring outside the scope of summit community activities when such behavior has the potential to adversely affect the safety and well-being of summit community members.
 
 ### Contact info
 
