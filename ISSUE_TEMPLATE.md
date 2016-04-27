@@ -1,17 +1,13 @@
-## Goal: 
-[One line goal description] 
+## Objective Goal: 
+[List objective & link]
 
-## Success:
-  [What would success look like] 
+## Sub-Goal Success:
+- [ ] Subgoal 1 (R: A: C: I: ) 
+- [ ] Subgoal 2 (R: A: C: I: ) 
+- [ ] Subgoal 3 (R: A: C: I: ) 
+- [ ] Subgoal 4 (R: A: C: I: ) 
 
 ## Related Issues & Links: 
 [Reference meta issues and past issues] #
 
-## Roles:
-Owner: 
-Involved: 
 
-## Required: 
-- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
-- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
-- [ ] Put mittens on all of the kittens (owner, Due: Aug 7th) 
