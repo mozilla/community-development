@@ -1,6 +1,9 @@
 ## Objective Goal: 
 [List objective & link]
 
+## Tasks & To Dos Related to This Project: 
+[Link to Repo, Spreadsheet, Trello etc.)
+
 ## Sub-Goal Success:
 - [ ] Subgoal 1 (R: A: C: I: ) 
 - [ ] Subgoal 2 (R: A: C: I: ) 
