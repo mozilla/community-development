@@ -1,6 +1,11 @@
 ## Objective Goal: 
 [List objective & link]
 
+R:
+A:
+C:
+I:
+
 ## Tasks & To Dos Related to This Project: 
 [Link to Repo, Spreadsheet, Trello etc.)
 
