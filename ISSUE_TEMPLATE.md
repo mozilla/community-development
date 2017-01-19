@@ -1,21 +1,14 @@
 ## Objective Goal: 
-[List objective & link]
+Detailed description on what should happen to conside this a success.
 
-R:
-A:
-C:
-I:
+## Related documents and links 
+* [Links here](/thelink)
 
-## Tasks & To Dos Related to This Project: 
-[Link to Repo, Spreadsheet, Trello etc.]
+## Item list:
+- [ ] Individual item that should happen (R:)
+- [ ] Individual item that should happen (R:)
+- [ ] Individual item that should happen (R:)
+- [ ] Individual item that should happen (R:)
 
-## Sub-Goal Success:
-- [ ] Subgoal 1 (R: A: C: I: ) 
-- [ ] Subgoal 2 (R: A: C: I: ) 
-- [ ] Subgoal 3 (R: A: C: I: ) 
-- [ ] Subgoal 4 (R: A: C: I: ) 
-
-## Related Issues & Links: 
+## Related Issues
 [Reference meta issues and past issues] #
-
-
