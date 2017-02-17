@@ -3,7 +3,7 @@ _from the Community Development Team_
 
 ## Release notes
 
-### March 3, 2017 (Q1HB1)
+### March 3, 2017 (Q1HB2)
 
 * Coming soon, in progress.
 
