@@ -1,0 +1,23 @@
+{
+  "name": "michael-okrs",
+  "version": "1.0.0",
+  "author": "Eli Perelman <eli@eliperelman.com>",
+  "license": "MPL-2.0",
+  "config": {
+    "preset": "preset.js"
+  },
+  "scripts": {
+    "start": "PORT=4400 neutrino start",
+    "build": "neutrino build"
+  },
+  "devDependencies": {
+    "bootstrap": "4.0.0-alpha.5",
+    "neutrino": "^3.0.0",
+    "neutrino-preset-react": "^2.1.0",
+    "react": "^15.4.1",
+    "react-addons-css-transition-group": "^15.4.1",
+    "react-addons-transition-group": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "reactstrap": "^3.9.2"
+  }
+}

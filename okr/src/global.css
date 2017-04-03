@@ -1,0 +1,198 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:100,300,700");
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 100;
+  background-color: white;
+  color: #000;
+  text-rendering: optimizeLegibility;
+}
+
+hr {
+  border-top: 1px dotted rgba(255, 255, 255, .1);
+}
+
+.logo {
+  vertical-align: middle;
+  margin: 15px 0;
+  max-height: 70px;
+}
+
+h1 {
+  display: inline-block;
+  font-family: 'Arvo', serif;
+  font-size: 3rem;
+  background-color: black;
+  color: RGB(255, 255, 255);
+  padding: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.title-container {
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (max-width: 767px) {
+  .logo {
+    margin-bottom: 0;
+  }
+}
+
+h2, .h2 {
+  font-size: 1.3rem;
+  font-weight: 100;
+  margin-bottom: 0;
+}
+
+h3, .h3 {
+  font-size: 1rem;
+  font-weight: 100;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.objective > .row:last-of-type > .col-xs > hr {
+  display: none;
+}
+
+.scoring {
+  height: 50px;
+  border: 1px solid rgb(255, 140, 142);;
+  border-radius: 25px;
+  padding: 2px;
+  margin: 0 0 20px;
+  align-items: stretch;
+}
+
+.scoring.empty {
+  border: 1px solid rgb(255, 140, 142);;
+}
+
+.scoring.in-progress {
+  border: 1px solid rgba(250, 186, 0, 1);
+}
+
+.scoring.achieved {
+  border: 1px solid rgb(182, 216, 6);
+}
+
+.score {
+  flex: 1;
+  height: 44px;
+  text-align: center;
+  font-size: 1.2rem;
+  border-radius: 0;
+  margin-right: 2px;
+  border: 1px solid rgba(0, 0, 0, .2);
+  background-color: rgba(0, 0, 0, .1);
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+  cursor: pointer;
+  color: rgba(0, 0, 0, .7);
+  font-weight: bold;
+}
+
+.score > div {
+  padding-top: 8px;
+  width: 100%;
+  height: 100%;
+}
+
+.score.achieved {
+  background-color: rgb(182, 216, 6);
+}
+
+.score:hover:not(.achieved) {
+  background-color: rgba(0, 0, 0, .4);
+  color: rgba(0, 0, 0);
+}
+
+.score:first-child {
+  border-radius: 22px;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.score:last-child {
+  margin-right: 0;
+  border-radius: 22px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.tooltip-inner {
+  background-color: #111;
+  font-family: 'Work Sans';
+  font-size: .75rem;
+}
+
+.icon {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.icon-info {
+  cursor: pointer;
+  opacity: .4;
+  transition: opacity .3s ease;
+}
+
+.icon-info:hover {
+  opacity: 1;
+}
+
+.icon svg {
+  width: 16px;
+  height: 16px;
+}
+
+.tag {
+  font-size: 65%;
+  border-radius: .1rem;
+  margin-right: 3px;
+  text-shadow: 0 0 2px rgba(0, 0, 0, .7);
+}
+
+.progress-list .tag {
+  width: 2.25rem;
+}
+
+.objective > .tag-default {
+  font-weight: 300;
+}
+
+h2 .tag {
+  border-radius: 1rem;
+  vertical-align: middle;
+  margin-top: -1px;
+  font-weight: bold;
+  padding: .3rem .4rem;
+  margin-left: 1rem;
+  margin-bottom: .5rem;
+  float: right;
+}
+
+h3 .tag {
+  font-size: 80%;
+  margin-top: -2px;
+  vertical-align: middle;
+}
+
+h3 .collapser {
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .objective {
+    padding: 15px;
+    border: 1px dotted rgba(0, 0, 0, .9);
+    border-radius: 4px;
+    width: 100%;
+    height: 100%;
+  }
+}

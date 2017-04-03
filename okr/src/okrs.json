@@ -1,0 +1,151 @@
+{
+  "objectives": [
+    {
+      "name": "We demonstrate how innovative approaches to community development can deliver new technical contributors to Mozilla technologies",
+      "okrs": ["Community Development", "Technical Contributors"],
+      "results": [
+        {
+          "name": "20 new diverse US Clubs",
+          "description": "20 new diverse US clubs are making valuable technical contributions to Mozilla (or Mozilla supported) open source projects through Student Clubs [shared with Open Source Experiments].",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.2": "4 new diverse Clubs",
+            "0.4": "8 new diverse Clubs",
+            "0.6": "12 new diverse Clubs",
+            "0.8": "16 new diverse Clubs",
+            "1.0": "20 new diverse Clubs"
+          }
+        }, {
+          "name": "Dev Communities Experiments",
+          "description": "Pilot 2-3 in-market experiments for recruiting and building diverse and inclusive developer communities [Shared with Dev Marketing + Dev Rel]",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "1 experiment piloted",
+            "0.66": "2 experiments piloted",
+            "1.0": "3 experiments piloted"
+          }
+        }, {
+          "name": "Activate - Technical contributors",
+          "description": "Activate is actively engaging 70 new technical contributors",
+          "progress": 0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "20 new technical contributors",
+            "0.66": "40 new technical contributors",
+            "1.0": "70 new technical contributors"
+          }
+        }
+      ]
+    },
+    {
+      "name": "We have shown progress on the creation of a unified approach across Mozilla for recruiting, aligning and investing in mobilizers that is showing direct value for business objectives",
+      "okrs": ["Mobilizers", "Unified Approach"],
+      "results": [
+        {
+          "name": "Core community sentiment bigger than 11 and a half NPS",
+          "description": "Core community sentiment bigger than 11 and a half NPS",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.25": "more than 3 NPS",
+            "0.5": "more than 6 NPS",
+            "0.75": "more than 9 NPS",
+            "1.0": "more than 11.5 NPS"
+          }
+        }, {
+          "name": "Mobilizer sentiment bigger than 15 NPS",
+          "description": "Mobilizer sentiment bigger than 15 NPS",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "more than 5 NPS",
+            "0.66": "more than 10 NPS",
+            "1.00": "more than 15 NPS"
+          }
+        }, {
+          "name": "70 percent Reps Activate activities",
+          "description": "70 percent of Reps activities are in support of activities prioritized on Activate mobilizer portal",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "more than 50 percent activities to Activate",
+            "0.66": "more than 60 percent activities to Activate",
+            "1.00": "more than 70 percent activities to Activate"
+          }
+        }, {
+          "name": "Activate Feedback mechanism",
+          "description": "100 percent of Activate activities are using the new feedback/tracking mechanism",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "more than 50 percent use new feedback mechanism",
+            "0.66": "more than 80 percent use new feedback mechanism",
+            "1.00": "more than 100 percent use new feedback mechanism"
+          }
+        }
+      ]
+    }, {
+      "name": "We have a comprehensive understanding of our existing communities and a draft proposal for organizing models moving forward",
+      "okrs": ["Communities", "Organizing model"],
+      "results": [
+        {
+          "name": "Analysis Existing Communities",
+          "description": "Data and qualitative narrative of existing communities and contributors, their skills, motivations, locations and current state of impact",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "Data is gathered",
+            "0.66": "Data is analyzed",
+            "1.0": "Results are communicated"
+          }
+        }, {
+          "name": "Mobilizer experiment",
+          "description": "Mobilizer experiment has produced a clear set of recommendations that will inform our mobilizer strategy and programs",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.5": "Clear set of recommendations drafted",
+            "1.00": "Clear set of recommendations communicated"
+          }
+        }
+      ]
+    }, {
+      "name": "We have a preliminary Diversity and Inclusion for Participation strategy that is an opinionated and reliable input to the OI Strategy and teams across Mozilla",
+      "okrs": ["Diversity", "Inclusion", "Participation"],
+      "results": [
+        {
+          "name": "3 Experiments",
+          "description": "3 experiments have tested and validated research-based hypotheses",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "1 experiment done",
+            "0.66": "2 experiments done",
+            "1.0": "3 experiments done"
+          }
+        }, {
+          "name": "Draft for Strategy",
+          "description": "Deliver a preliminary draft of the D&I for Participation Strategy",
+          "progress": 0,
+          "score": "0.0",
+          "scoring": {
+            "0.5": "Draft for strategy is drafted",
+            "1.0": "Draft is communicated"
+          }
+        }, {
+          "name": "CPG implementation",
+          "description": "We pilot CPG implementation in 2 communities and publish the results",
+          "progress": 0.0,
+          "score": "0.0",
+          "scoring": {
+            "0.33": "1 community has implemented CPG",
+            "0.66": "2 communities have implemented CPG",
+            "1.0": "Results are published"
+          }
+        }
+      ]
+    }
+  ]
+}
