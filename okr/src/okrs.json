@@ -7,8 +7,8 @@
         {
           "name": "20 new diverse US Clubs",
           "description": "20 new diverse US clubs are making valuable technical contributions to Mozilla (or Mozilla supported) open source projects through Student Clubs [shared with Open Source Experiments].",
-          "progress": 0.0,
-          "score": "0.0",
+          "progress": 0.5,
+          "score": "0.6",
           "scoring": {
             "0.2": "4 new diverse Clubs",
             "0.4": "8 new diverse Clubs",
@@ -19,8 +19,8 @@
         }, {
           "name": "Dev Communities Experiments",
           "description": "Pilot 2-3 in-market experiments for recruiting and building diverse and inclusive developer communities [Shared with Dev Marketing + Dev Rel]",
-          "progress": 0.0,
-          "score": "0.0",
+          "progress": 1,
+          "score": "1.0",
           "scoring": {
             "0.33": "1 experiment piloted",
             "0.66": "2 experiments piloted",
